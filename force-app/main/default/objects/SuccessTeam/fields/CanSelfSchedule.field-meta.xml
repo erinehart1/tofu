@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CanSelfSchedule</fullName>
+    <inlineHelpText>Site users can self schedule with this Case Team.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>
